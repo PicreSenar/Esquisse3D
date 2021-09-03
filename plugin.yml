@@ -1,0 +1,20 @@
+name: Esquisse3D
+version: 1.15.1.0
+author: PicreSenar
+main: fr.picresenar.esquisse3D.MainEsquisse
+api-version: 1.15
+commands: 
+  adminE3D:
+    description: Permet de recuperer outil admin du Esquisse 3D
+    permission: adminE3D.use
+  startE3D:
+    description: Permet de demarrer la partie d'Esquisse 3D
+    permission: startE3D.use
+  addplayerE3D:
+    description: Permet de rajouter un joueur de la liste des participants du Esquisse 3D
+  removeplayerE3D:
+    description: Permet de supprimer un joueur de la liste des participants du Esquisse 3D
+  addspecE3D:
+    description: Permet de rajouter un joueur de la liste des spectateurs du Esquisse 3D
+  removespecE3D:
+    description: Permet de supprimer un joueur de la liste des spectateurs du Esquisse 3D

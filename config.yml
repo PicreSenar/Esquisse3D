@@ -1,0 +1,66 @@
+Joueurs:
+  min: 4
+  max: 12
+Gameplay:
+  autoriserTNT: false
+  carapaceSalles: true
+  timermanches: 600
+Coordonnees:
+  Monde: BreeVillageofMen
+  CoordLobby:
+    x: -8000
+    y: 5
+    z: -8000
+  CoordUrnes:
+    xmin: -8071
+    ymin: 40
+    zmin: -8060
+    xmax: -8061
+    ymax: 61
+    zmax: -7940
+  CoordSalles:
+    xmin: -8050
+    ymin: 40
+    zmin: -8060
+    xmax: -7870
+    ymax: 80
+    zmax: -7700
+  CoordRejoindre:
+    xmin: -8005
+    ymin: 2
+    zmin: -7995
+    xmax: -8003
+    ymax: 4
+    zmax: -7993
+  CoordQuitter:
+    xmin: -8008
+    ymin: 2
+    zmin: -8001
+    xmax: -8006
+    ymax: 4
+    zmax: -7999
+  CoordSpec:
+    xmin: -8004
+    ymin: 2
+    zmin: -8007
+    xmax: -8002
+    ymax: 4
+    zmax: -8005
+  CoordQuitterSpec:
+    xmin: -7997
+    ymin: 2
+    zmin: -8007
+    xmax: -7795
+    ymax: 5
+    zmax: -8005
+Panneaux:
+  EnclumeDraw:
+  - "Pas besoin de"
+  - "l'enclume ici."
+  - "Dessinez juste le"
+  - "mot dans la salle"
+  EnclumeGuess:  
+  - "Renommez le tag"
+  - "ici et faites"
+  - "clic-droit avec"
+  - "sur le cochon."
